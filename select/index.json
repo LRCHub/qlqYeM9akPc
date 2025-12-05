@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Water Carrier",
+  "base_artist": "Kroi",
+  "createdAt": "2025-12-05T17:55:23.381016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Water Carrier",
+      "artist": "Ian Anderson",
+      "has_synced": true,
+      "path": "select/01_The_Water_Carrier_Ian_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Water Carrier",
+      "artist": "Jan Anderson",
+      "has_synced": true,
+      "path": "select/02_The_Water_Carrier_Jan_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "05 - The Water Carrier",
+      "artist": "Ian Anderson",
+      "has_synced": true,
+      "path": "select/03_05_-_The_Water_Carrier_Ian_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Water Carrier",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/04_Water_Carrier_Kroi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Water Carrier",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_Water_Carrier_Kroi.txt"
+    }
+  ]
+}
